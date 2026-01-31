@@ -1,8 +1,9 @@
 {
   "name": "charc-blurple-hc",
   "displayName": "Charc BlurpleSIDDH Contrast",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "publisher": "ShravSiddhpura",
+  "description": "A premium matte blurple high-contrast theme designed for deep focus, reduced eye strain, and a modern aesthetic.",
   "license": "MIT",
   "engines": {
     "vscode": "^1.80.0"
@@ -13,6 +14,18 @@
   },
   "categories": [
     "Themes"
+  ],
+  "keywords": [
+    "blurple",
+    "matte",
+    "high contrast",
+    "dark",
+    "purple",
+    "minimalist",
+    "eye strain",
+    "professional",
+    "accessible",
+    "charcoal"
   ],
   "contributes": {
     "themes": [
