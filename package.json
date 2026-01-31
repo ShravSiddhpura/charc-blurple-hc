@@ -1,0 +1,26 @@
+{
+  "name": "charc-blurple-hc",
+  "displayName": "Charc BlurpleSIDDH Contrast",
+  "version": "1.0.0",
+  "publisher": "Shrav Siddhpura",
+  "license": "MIT",
+  "engines": {
+    "vscode": "^1.80.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shrav/charc-blurple-hc"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Charc BlurpleSIDDH Contrast",
+        "uiTheme": "vs-dark",
+        "path": "./themes/blurple-hc.json"
+      }
+    ]
+  }
+}
