@@ -59,6 +59,7 @@
         "gitDecoration.ignoredResourceForeground": "#444763",
         "editor.selectionBackground": "#5F65B577",
         "editor.selectionHighlightBackground": "#5F65B544"
+               
     },
     "tokenColors": [
     {
